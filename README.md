@@ -80,7 +80,7 @@ This allowed proper network connectivity and enabled packet capture.
 ## Screenshots
 
 ### ICMP Packet Capture
-![ICMP](screenshots/packet_capture_icmp.png)
+![ICMP](screenshots/icmp_capture.png)
 
 ### DNS Traffic Analysis
 ![DNS](screenshots/dns_filter.png)
