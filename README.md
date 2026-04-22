@@ -1,4 +1,4 @@
-# Wireshark-Network-Analysis
+# Wireshark Network Analysis
 basic network traffic analysis using Wireshark in a virtualized environment
 The objective was to capture, observe and understand how devices communicate over a network using different protocols.
 
