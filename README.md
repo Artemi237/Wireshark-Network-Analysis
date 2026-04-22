@@ -77,6 +77,16 @@ To resolve this issue, a manual network configuration was applied:
 - DNS server configuration  
 
 This allowed proper network connectivity and enabled packet capture.
+## Screenshots
+
+### ICMP Packet Capture
+![ICMP](screenshots/packet_capture_icmp.png)
+
+### DNS Traffic Analysis
+![DNS](screenshots/dns_filter.png)
+
+### TCP / HTTPS Traffic
+![TCP](screenshots/tcp_filter.png)
 
 ---
 
